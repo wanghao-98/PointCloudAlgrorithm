@@ -1,0 +1,5 @@
+读取点云文件时间：1130
+法线计算时间：8227
+Model total points: 9006; Selected Keypoints: 1417
+Scene total points: 1026791; Selected Keypoints: 16399
+均匀采样时间：142
